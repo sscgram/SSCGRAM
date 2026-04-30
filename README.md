@@ -53,16 +53,6 @@ Features include:
 
 ---
 
-## 💻 Technology Stack
-
-* **Backend:** PHP / Laravel / Flask
-* **Database:** MySQL
-* **Automation:** Python
-* **AI Integration:** OpenAI, Gemini
-* **Frontend:** HTML, CSS, JavaScript
-* **Infrastructure:** GitHub, VPS, APIs
-
----
 
 ## 🌐 Connect With SSCGram
 
